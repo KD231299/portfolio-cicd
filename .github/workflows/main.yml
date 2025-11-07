@@ -3,7 +3,7 @@ name: Kishan-project1 Deployment
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
